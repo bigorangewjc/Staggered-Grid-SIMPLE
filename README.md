@@ -1,4 +1,5 @@
 # Staggered-Grid-SIMPLE
+(The term project of CFDII course)
 Instructions:
 1. Code name: Staggered-SIMPLE.py
 2. Prerequisite packages: python, matplotlib, scikit-learn, numpy
